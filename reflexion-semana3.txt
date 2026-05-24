@@ -1,0 +1,10 @@
+Para mi es importante mantener un registro de cambios en los 
+proyectos software, ya que permite organizar el trabajo, ademas
+ayuda a que la informacion no se pierda.
+Con herramientas como GIT, cada cambio realizado queda registrado, 
+lo que muestra la evolucion de cada uno de los proyectos, donde en caso 
+de errores se pueda retroceder y corregirlo.
+Tambien es importente mantener estos cambios, ya que en los proyectos
+colaborativos, se asegura que varios puedan trabajar sin repetir trabajo, ya 
+que nos permite estar pendiente de lo ya realizado, esto nos permite una buena
+organizacion y desarollo de cada proyecto.
